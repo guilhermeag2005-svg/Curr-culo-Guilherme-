@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Meu Currículo Digital</title>
+    <style>
+        body { font-family: Arial, sans-serif; line-height: 1.6; margin: 0; padding: 20px; background-color: #f4f4f9; }
+        .container { max-width: 800px; margin: auto; background: #fff; padding: 20px; border-radius: 8px; box-shadow: 0 0 10px rgba(0,0,0,0.1); }
+        h1 { color: #333; text-align: center; }
+        h2 { color: #0066cc; border-bottom: 2px solid #ddd; padding-bottom: 5px; }
+        .foto { text-align: center; margin-bottom: 20px; }
+        .foto img { border-radius: 50%; width: 150px; height: 150px; object-fit: cover; }
+        .links { text-align: center; margin-top: 20px; }
+        .links a { margin: 0 10px; text-decoration: none; color: #0066cc; font-weight: bold; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="foto">
+            <img src="https://placeholder.com" alt="Sua Foto">
+        </div>
+        <h1>Seu Nome</h1>
+        <p style="text-align: center;"><Guilherme de Amorim Gomes , desenvolvedor em TI </strong></p>
+        
+        <h2>Sobre Mim</h2>
+        <p>Sou um profissional apaixonado por tecnologia, nuvem e resolução de problemas. Tenho grande afinidade em resolver problemas que envolvam matemática e busco pesquisar sobre o funcionamento da computação em nuvem, compreendendo conceitos e aplicação prática.</p>
+        
+        <h2>Experiência</h2>
+        <p><strong>Empresa Atual / Cargo</strong><br><em>Jan 2025 - Presente</em><br>Atualmente não possuo experiência de trabalho, mas busco compreender as principais ferramentas essenciais para meu desenvolvimento profissional a partir de conceitos de boas práticas  no mercado de tecnologia adquiridos </p>
+
+        <h2>Formação</h2>
+        <p><strong>Atualmente estou no 3° período do curso de Sistemas de Informação</strong><br><em>Ano de conclusão: 2028</em></p>
+
+        <div class="links">
+            <a href="https://linkedin.com">LinkedIn</a>
+            <a href="https://github.com">GitHub</a>
+            <a href="mailto:seu-email@exemplo.com">Contato</a>
+        </div>
+    </div>
+</body>
+</html>
